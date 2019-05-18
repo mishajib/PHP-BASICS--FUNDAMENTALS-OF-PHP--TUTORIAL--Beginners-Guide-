@@ -1,0 +1,8 @@
+Wi-Fi = Wireless Fidelity <br>
+WiMax = Worldwide Interoperability for Microwave Access <br>
+GSM = Global System for Mobile communication <br>
+CDMA = Code Division Multiple Access <br>
+W-CDMA = Wideband Code Division Multiple Access <br>
+AMPS = Advance Mobile Phone System <br>
+UMTS = Universal Mobile Telecommunication System <br>
+IMT = International Mobile Telecommunication <br>
